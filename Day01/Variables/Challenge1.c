@@ -1,6 +1,6 @@
 
-
 #include <stdio.h>
+
 
 int main() {
     char first_name[20];
