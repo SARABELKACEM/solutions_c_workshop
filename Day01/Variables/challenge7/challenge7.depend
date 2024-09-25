@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1727259979 source:c:\users\youcode\desktop\solutions_c_workshop\day01\variables\challenge7\main.c
+	<stdio.h>
+	<stdlib.h>
+
